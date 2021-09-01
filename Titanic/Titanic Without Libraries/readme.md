@@ -1,14 +1,14 @@
 # Titanic - Machine Learning From Disaster Without ML Libraries
 
-### Predictions Model -
+### Prediction Model -
 
 Logistic Regression: This was my first-ever Machine Learning Model so I tried to keep it as simple as possible. Hence I used this model.
 
 ### Libraries used - 
 
-1. Pandas 
-2. Numpy
-3. Matplotlib
+1. Pandas (For Data Handling and Pre-processing)
+2. Numpy (For Data Handling and Pre-processing)
+3. Matplotlib (For Data Analysis)
 
 Note- I didnt use any external Machine Learning Libraries instead I tried to create the model completely by myself.  
 
