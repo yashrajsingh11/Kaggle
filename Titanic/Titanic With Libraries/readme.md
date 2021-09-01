@@ -12,11 +12,11 @@
 
 The approach was similar to the one which I used in predicting the output without using any ML Libraries. The only difference was in model training.
 
-### Model -
+1. Model -
 
 For this I used [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) from Scikit-Learn.
 
-3. Predictions -
+2. Predictions -
 
 The highest accuracy score I reached using this model was 0.775.
 
